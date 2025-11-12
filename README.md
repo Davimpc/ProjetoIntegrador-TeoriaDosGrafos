@@ -1,4 +1,5 @@
-Instalar o ambiente virtual (requirements.txt) antes de rodar na sua máquina
+Instalar o ambiente virtual (requirements.txt) antes de rodar na sua máquina:
+# Executar o comando: pip install -r requirements.txt
 
 Construir e visualizar o grafo:
 
