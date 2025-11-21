@@ -94,3 +94,14 @@ Comando	   |  Função
 visualizar |  Mostra o grafo focado no último termo buscado
 geral      |  Mostra a visão geral com as keywords mais importantes
 sair       |  Fecha o programa
+```
+
+## Autores
+
+Davi Mendes Paraiso Carvalho - 2212130041
+
+Lucas Ramires Montalvão - 2322130043
+
+Paulo Miguel Gonçalves Dias da Silva - 2312130131
+
+Rafael Rodrigues Barbosa - 2212130042
